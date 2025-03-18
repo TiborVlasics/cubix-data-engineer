@@ -1,0 +1,8 @@
+payment_type_id,payment_type
+1,Mobile
+2,Cash
+3,Credit Card
+4,Prcard
+5,Unknown
+6,No Charge
+7,Dispute

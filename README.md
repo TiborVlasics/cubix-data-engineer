@@ -34,7 +34,7 @@ https://data.cityofchicago.org
 
 ## Environmental variables for running 08_local_visualizations.ipynb
 * AWS_ACCESS_KEY
-* AWS_SECRET_KEY\
+* AWS_SECRET_KEY
 
 They are needed to load data from AWS S3 
 

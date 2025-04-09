@@ -28,15 +28,15 @@ The lambda functions were used for extracting/transforming/loading API data, the
 **Matplotlib**, **Seaborn** for data visualizations
 
 ## API's used:
-Open meteo weather API
-https://archive-api.open-meteo.com/v1/era5\
-Chicago data portal API for taxi trips data
+* Open meteo weather API - https://archive-api.open-meteo.com/v1/era5
+* Chicago data portal API for taxi trips data - 
 https://data.cityofchicago.org
 
-## Environmental variables needed tor un 08_local_visualizations.ipynb
+## Environmental variables for running 08_local_visualizations.ipynb
 * AWS_ACCESS_KEY
 * AWS_SECRET_KEY\
-They are needed for the loading of data from AWS S3 
+
+They are needed to load data from AWS S3 
 
 ## Chicago taxi trips data visualization examples 
 Trip miles count, broken down by payment type

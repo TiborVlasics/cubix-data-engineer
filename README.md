@@ -47,3 +47,9 @@ Correlation of trip_miles and fares, with payment types in colors:
 
 Trip total fare of companies with pickup community area colored:
 ![What is this](img/total_fare_company.png)
+
+Median fare of payment types
+![What is this](img/median_fare_payment_types.png)
+
+Distribution of trips count by hour of the day
+![What is this](img/trips_count_hour_of_day.png)
